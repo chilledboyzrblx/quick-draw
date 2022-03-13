@@ -1,0 +1,29 @@
+body{
+    background-color:burlywood;
+}
+#score{
+    font-size:25px;
+    margin-left:25px;
+    float:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+}
+#timer{
+    font-size: 25px;
+    margin-right:30px;
+    float:right;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blueviolet;
+}
+p{
+    font-size:20px;
+    color:crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#sketch_to_be_drawn{
+    font-size:25px;
+    color:blue;
+}
+canvas{
+    background-color:white;
+}
